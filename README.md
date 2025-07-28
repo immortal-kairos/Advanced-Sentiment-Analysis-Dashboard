@@ -48,8 +48,8 @@ This project is an Advanced Sentiment Analysis Dashboard built using Streamlit a
 3. Use the dashboard:
    - Select an LLM model from the sidebar
    - Enter text in the input area or upload a CSV file for batch analysis
-   - Click "Analyze Sentiment" to process the input
-   - View the results, including sentiment classification, visualizations, and overall statistics
+   - Click "Analyse Sentiment" to process the input
+   - View the results, including sentiment classification, visualisations, and overall statistics
 
 ## Project Structure
 
@@ -72,7 +72,7 @@ This project is an Advanced Sentiment Analysis Dashboard built using Streamlit a
 ## Notes
 
 - The availability and performance of models may vary depending on your Ollama installation.
-- Not all models are optimized for sentiment analysis tasks. Results may vary between different models.
+- Not all models are optimised for sentiment analysis tasks. Results may vary between different models.
 
 
 
