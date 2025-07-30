@@ -1,6 +1,31 @@
-text,sentiment
-I love this product! It's amazing and works perfectly.,positive
-The service was terrible and the staff was rude.,negative
-"The movie was okay, nothing special but not bad either.",neutral
-This restaurant has the best pizza I've ever tasted!,positive
-I'm feeling quite indifferent about the whole situation.,neutral
+text,source,timestamp
+"I absolutely love this product! It's exceeded all my expectations and I'll definitely be recommending it to my friends.",social_media,2023-11-01 10:15:00
+"The customer service was terrible. I waited on hold for over an hour and then the representative was rude.",customer_support,2023-11-02 14:30:00
+"This is a decent product for the price point. Nothing special but gets the job done.",review_site,2023-11-03 09:45:00
+"I'm very disappointed with the quality. It broke after just two weeks of normal use.",email,2023-11-04 16:20:00
+"The new features in the latest update are amazing! So much more intuitive now.",app_review,2023-11-05 11:10:00
+"Average product, average service. Nothing to write home about.",survey,2023-11-06 13:25:00
+"I've been using this brand for years and have never been disappointed. Great quality as always!",social_media,2023-11-07 15:40:00
+"The shipping was extremely slow and the packaging was damaged when it arrived.",email,2023-11-08 10:05:00
+"This is just okay. I expected more based on the advertising.",review_site,2023-11-09 12:30:00
+"Fantastic product! Easy to use and solved my problem immediately.",customer_support,2023-11-10 09:15:00
+"I'm returning this product. It doesn't work as advertised and feels cheaply made.",email,2023-11-11 14:50:00
+"The interface is confusing and not user-friendly at all.",app_review,2023-11-12 16:35:00
+"Great value for money. Does exactly what it says on the tin.",review_site,2023-11-13 11:20:00
+"I'm neither satisfied nor dissatisfied. It's just fine.",survey,2023-11-14 13:45:00
+"Best purchase I've made this year! Can't believe I waited so long to buy this.",social_media,2023-11-15 10:30:00
+"The product arrived late and was missing parts. Very frustrating experience.",email,2023-11-16 15:15:00
+"It's alright. Does the job but nothing special.",review_site,2023-11-17 09:40:00
+"I'm impressed with the build quality and attention to detail. Well done!",app_review,2023-11-18 12:25:00
+"This product has made my life so much easier. I use it every day!",social_media,2023-11-19 14:10:00
+"I had high hopes but was let down. The product doesn't perform as well as competitors.",review_site,2023-11-20 16:55:00
+"Mediocre at best. There are better options available for the same price.",survey,2023-11-21 10:20:00
+"The customer support team was incredibly helpful and resolved my issue quickly.",customer_support,2023-11-22 13:05:00
+"I regret this purchase. It's not worth the money and breaks easily.",email,2023-11-23 15:30:00
+"Pleasantly surprised by how good this is. Exceeded my expectations.",app_review,2023-11-24 09:55:00
+"It's fine but nothing special. Does what it's supposed to do.",review_site,2023-11-25 12:40:00
+"I'm absolutely thrilled with this purchase! Best decision I've made in a long time.",social_media,2023-11-26 14:25:00
+"Terrible experience from start to finish. Will not be using this brand again.",email,2023-11-27 16:10:00
+"It's okay I guess. Not great, not terrible.",survey,2023-11-28 10:45:00
+"Very impressed with the quality and performance. Well worth the money.",app_review,2023-11-29 13:20:00
+"This product has completely failed to meet my expectations. Very disappointed.",review_site,2023-11-30 15:05:00
