@@ -200,7 +200,7 @@ def main():
                         
                         col1, col2 = st.columns(2)
                         with col1:
-                            st.plotly_chart(create_sentiment_gauge(result['confidence'], result['classification']), use_container_width=True)
+                            st.plotly_chart(create_sentiment_gauge(result['confidence'], result['classification']), use_container_width=True, key=f"gauge_{i}")
                         with col2:
                             st.pyplot(create_word_cloud(texts[i]))
                 
