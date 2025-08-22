@@ -22,6 +22,55 @@ This project is an Advanced Sentiment Analysis Dashboard built using Streamlit a
 - Python 3.7+
 - Ollama (with desired models installed)
 
+Installing Ollama
+Windows
+Download the Ollama installer from the official Windows page.
+
+Run the installer and follow the setup instructions.
+
+After installation, restart your terminal and verify installation with:
+
+```
+ollama --version
+```
+To run the Ollama server:
+
+```
+ollama serve
+```
+macOS
+Open Terminal and run:
+
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
+After installation completes, verify with:
+
+```
+ollama --version
+```
+Start the server:
+
+```
+ollama serve
+```
+Linux
+Open your terminal and run:
+
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
+Verify installation:
+
+```
+ollama --version
+```
+To start Ollama:
+```
+ollama serve
+```
+Note: After installing, ensure ollama is available in your system PATH. You might need to restart your terminal or system for the command to be recognized.
+
 ### Setup
 1. Clone the repository:
    ```
